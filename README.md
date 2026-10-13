@@ -10,6 +10,7 @@ gcloud auth application-default login
 
 ## 📂 Repository Structure
 * `day01-provider-setup/`: Initial setup and configuring the GCP provider.
+* `day02-state-bucket/`: tfstate bucket setup.
 * *(More days will be added here)*
 
 ## 📈 Progress Tracking
